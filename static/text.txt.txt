@@ -1,0 +1,2 @@
+So, finally we are here
+this is the static file which was made under the django project
